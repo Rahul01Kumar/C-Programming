@@ -10,7 +10,7 @@ Syntax:
 	else if(exp2){
 	statemets;
 }
-
+// This is a switch case problem
 
 
 */
